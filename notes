@@ -1,0 +1,10 @@
+Typescript, Next.js, and GraphQL Series
+- Setup Next.js project
+- Setup Apollo
+- Setup GraphQL code generator
+- Register
+- Handle and display errors
+- Login
+- Authentication routes
+- Forgot/Change password
+- Logout
